@@ -4,6 +4,24 @@
     <img src="./markdown/images/golang-workout.gif" alt="Golang Workout">
 </div>
 
+## Introduction
+
+### 1. Sintaxe
+
+```golang
+package main
+
+import (
+    "fmt"
+    "time"
+)
+
+func main() {
+    now := time.Now()
+    fmt.Println(now)
+}
+```
+
 # Referências
 
 ## Recursos
